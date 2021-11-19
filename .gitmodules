@@ -1,0 +1,6 @@
+[submodule "junction-avp-backend"]
+	path = junction-avp-backend
+	url = https://github.com/kuzznya/junction-avp-backend
+[submodule "junction-2021"]
+	path = junction-2021
+	url = https://github.com/bigfirestart/junction-2021
